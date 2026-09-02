@@ -186,13 +186,6 @@ I'm particularly interested in opportunities where **software engineering, data 
 
 ---
 
-# 🐍 Contribution Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YatinFakir/YatinFakir/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
 
 # 🎯 Current Goals
 
