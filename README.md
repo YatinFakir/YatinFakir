@@ -108,7 +108,7 @@ A year-long workforce-management platform developed for a real-world hospitality
 `JavaScript` `Node.js` `Express.js` `Vue.js` `React Native` `MySQL` `REST APIs` `Docker` `Git` `Figma`
 
 <p align="center">
-  <a href="https://adam.uj.ac.za/projectsday/teamweb/Team41/index.html">
+  <a href="https://yatinfakir.github.io/Code-Connoisseurs/">
     <img src="https://img.shields.io/badge/🌐%20View%20Capstone%20Showcase-6E40C9?style=for-the-badge" />
   </a>
 </p>
