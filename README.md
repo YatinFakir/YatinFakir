@@ -11,7 +11,7 @@
   <a href="https://github.com/YatinFakir">
     <img src="https://img.shields.io/badge/GitHub-YatinFakir-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://adam.uj.ac.za/projectsday/teamweb/Team41/index.html">
+  <a href="https://yatinfakir.github.io/Code-Connoisseurs/">
     <img src="https://img.shields.io/badge/Capstone-Showcase-6E40C9?style=for-the-badge&logo=rocket&logoColor=white" />
   </a>
 </p>
